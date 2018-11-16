@@ -1,0 +1,4 @@
+官网：http://www.freertos.org/
+书籍购买地址：http://shop.freertos.org/RTOS_primer_books_and_manual_s/1819.htm
+API手册购买地址：http://shop.freertos.org/FreeRTOS_API_and_Configuration_Reference_s/1822.htm
+软件包下载地址：https://sourceforge.net/projects/freertos/files/FreeRTOS/
