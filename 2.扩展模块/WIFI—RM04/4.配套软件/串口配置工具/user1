@@ -1,0 +1,17 @@
+at+netmode=1
+at+dhcpd=0
+at+wifi_conf=,,
+at+dhcpc=0
+at+net_ip=192.168.11.254,255.255.255.0,192.168.11.1
+at+net_dns=192.168.11.1,0.0.0.0
+at+remotepro=tcp
+at+mode=server
+at+remoteip=192.168.11.245
+at+remoteport=8080
+at+CLport=1
+at+timeout=0
+at+uart=115200,8,n,1
+at+uartpacklen=64
+at+uartpacktimeout=10
+at+net_commit=1
+at+reconn=1
